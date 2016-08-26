@@ -30,7 +30,7 @@ nav.header-nav ul li a{
 
 /* BASE MENU */
 nav.base-nav ul li a{
-	color: #555555;
+	color: #7c8281;
 }
 
 /* BASE MENU  - MEDIUM AND LARGE SCREENS */
@@ -229,7 +229,7 @@ nav.base-nav ul li a{
 		border-left: 1px solid #f0f0f0;
 	}
 	nav.base-nav ul li a{
-		border-bottom: 1px solid #f0f0f0;
+		border-bottom: 1px solid #7c8281;
 	}
 	nav.base-nav ul li:hover > a{
 		background: #f5f5f5;
