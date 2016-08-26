@@ -40,6 +40,7 @@
 .alignleft{
     float:left;
     margin-right: 15px;
+    margin-bottom:40px;
 }
 .alignright{
     float:right;
